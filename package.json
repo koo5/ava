@@ -129,13 +129,13 @@
 		"replace-string": "^3.1.0",
 		"sinon": "^9.0.3",
 		"source-map-fixtures": "^2.1.0",
-		"tap": "^14.10.8",
+		"tap": "^21.1.0",
 		"temp-write": "^4.0.0",
 		"tempy": "^0.6.0",
 		"touch": "^3.1.0",
 		"tsd": "^0.13.1",
 		"typescript": "^3.9.7",
-		"xo": "^0.33.0",
+		"xo": "^1.1.1",
 		"zen-observable": "^0.8.15"
 	}
 }
